@@ -13,8 +13,8 @@
 
 | Field               | Details                         |
 | ------------------- | ------------------------------- |
-| Name                | KUMBHA GEETHA KRISHNA           |
-| Registration Number | 252U1R9080                      |
+| Name                | PAPPIREDDY CHARAN REDDY         |
+| Registration Number | 252U1R9118                      |
 | Section             | CSE GEN-AI                      |
 | Lab Number          | 02                              |
 | Lab Title           | SQLite Database and CRUD Routes |
